@@ -15,6 +15,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | Dia | Tema | Status |
 | --- | --- | --- |
 | [Dia 00](./dia-00-por-que-seguranca-em-ia/) | Por que Segurança de IA? | Publicado |
+| [Dia 01](./dia-01-fundamentos-da-ia/) | Fundamentos da IA | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
