@@ -20,6 +20,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 03](./dia-03-modelos-e-dados-de-ia/) | Modelos e Dados de IA | Publicado |
 | [Dia 04](./dia-04-engenharia-de-prompts/) | Engenharia de Prompts | Publicado |
 | [Dia 05](./dia-05-forense-de-ia/) | Forense de IA | Publicado |
+| [Dia 06](./dia-06-protegendo-sistemas-de-ia/) | Protegendo Sistemas de IA | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
