@@ -22,6 +22,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 05](./dia-05-forense-de-ia/) | Forense de IA | Publicado |
 | [Dia 06](./dia-06-protegendo-sistemas-de-ia/) | Protegendo Sistemas de IA | Publicado |
 | [Dia 07](./dia-07-seguranca-de-llms/) | Segurança de LLMs | Publicado |
+| [Dia 08](./dia-08-modelagem-de-ameacas-em-ia/) | Modelagem de Ameaças em IA | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
