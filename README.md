@@ -25,6 +25,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 08](./dia-08-modelagem-de-ameacas-em-ia/) | Modelagem de Ameaças em IA | Publicado |
 | [Dia 09](./dia-09-reconhecimento-de-sistemas-de-ia/) | Reconhecimento de Sistemas de IA | Publicado |
 | [Dia 10](./dia-10-prompt-injection/) | Prompt Injection | Publicado |
+| [Dia 11](./dia-11-jailbreaking/) | Jailbreaking | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
