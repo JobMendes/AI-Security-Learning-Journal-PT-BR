@@ -26,6 +26,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 09](./dia-09-reconhecimento-de-sistemas-de-ia/) | Reconhecimento de Sistemas de IA | Publicado |
 | [Dia 10](./dia-10-prompt-injection/) | Prompt Injection | Publicado |
 | [Dia 11](./dia-11-jailbreaking/) | Jailbreaking | Publicado |
+| [Dia 12](./dia-12-defesa-contra-ataques-de-prompt/) | Defesa contra Ataques de Prompt | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
