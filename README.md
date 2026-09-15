@@ -27,6 +27,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 10](./dia-10-prompt-injection/) | Prompt Injection | Publicado |
 | [Dia 11](./dia-11-jailbreaking/) | Jailbreaking | Publicado |
 | [Dia 12](./dia-12-defesa-contra-ataques-de-prompt/) | Defesa contra Ataques de Prompt | Publicado |
+| [Dia 13](./dia-13-entendendo-a-cadeia-de-suprimentos-de-ia/) | Entendendo a Cadeia de Suprimentos de IA | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
