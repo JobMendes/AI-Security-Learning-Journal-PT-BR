@@ -30,6 +30,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 13](./dia-13-entendendo-a-cadeia-de-suprimentos-de-ia/) | Entendendo a Cadeia de Suprimentos de IA | Publicado |
 | [Dia 14](./dia-14-vetores-de-ataque-na-cadeia-de-suprimentos/) | Vetores de Ataque na Cadeia de Suprimentos | Publicado |
 | [Dia 15](./dia-15-protegendo-a-cadeia-de-suprimentos-de-ia/) | Protegendo a Cadeia de Suprimentos de IA | Publicado |
+| [Dia 16](./dia-16-fundamentos-de-seguranca-em-rag/) | Fundamentos de Segurança em RAG | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
