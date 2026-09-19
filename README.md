@@ -31,6 +31,7 @@ Em vez de apenas colecionar definições, questiono cada conceito, conecto-o a c
 | [Dia 14](./dia-14-vetores-de-ataque-na-cadeia-de-suprimentos/) | Vetores de Ataque na Cadeia de Suprimentos | Publicado |
 | [Dia 15](./dia-15-protegendo-a-cadeia-de-suprimentos-de-ia/) | Protegendo a Cadeia de Suprimentos de IA | Publicado |
 | [Dia 16](./dia-16-fundamentos-de-seguranca-em-rag/) | Fundamentos de Segurança em RAG | Publicado |
+| [Dia 17](./dia-17-data-poisoning-em-sistemas-rag/) | Data Poisoning em Sistemas RAG | Publicado |
 
 Novos conteúdos são liberados gradualmente. Este repositório contém apenas materiais já publicados.
 
